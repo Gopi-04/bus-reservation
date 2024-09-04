@@ -61,8 +61,8 @@ The system will confirm the cancellation and refund.
 # Example Output
 
 ---------------   SELECT THE SEAT NUMBER YOU WANT   ---------------
----------------   STARRED '*' SEATS ARE BOOKED SEATS   ---------------
----------------   SELECT OTHER AVAILABLE SEATS   ---------------
+---------------   STARRED '*' SEATS ARE BOOKED SEATS   ------------
+---------------   SELECT OTHER AVAILABLE SEATS   ------------------
 
 [1]  [2]  [*]  
 
