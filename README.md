@@ -1,7 +1,5 @@
 # Bus Reservation
 
-Bus Reservation System
-
 A simple Java-based Bus Reservation System that allows users to book and cancel seats on a bus using IntelliJ Idea. This project simulates a basic reservation system with a text-based interface.
 
 Features
