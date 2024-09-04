@@ -59,8 +59,7 @@ When prompted, enter a seat number (1-9) to cancel.
 Provide the name associated with the booking for validation.
 The system will confirm the cancellation and refund.
 # Example Output
-text
-Copy code
+
 ---------------   SELECT THE SEAT NUMBER YOU WANT   ---------------
 ---------------   STARRED '*' SEATS ARE BOOKED SEATS   ---------------
 ---------------   SELECT OTHER AVAILABLE SEATS   ---------------
@@ -92,6 +91,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Author
-Your Name - Gopi P
