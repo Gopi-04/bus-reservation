@@ -1,4 +1,4 @@
-# bus-reservation
+# Bus Reservation
 
 Bus Reservation System
 
