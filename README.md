@@ -25,7 +25,7 @@ cd busReservation
 **Open the Project:**
 
 If using an IDE, open the project directory.
-If using a text editor, open the Reservation.java file.
+If using a text editor, open the **busReservation.java** file.
 # How to Run
 **Compile the Java File:**
 
