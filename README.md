@@ -3,10 +3,13 @@
 A simple Java-based Bus Reservation System that allows users to book and cancel seats on a bus using IntelliJ Idea. This project simulates a basic reservation system with a text-based interface.
 
 # Features
-Book a Seat: Users can select a seat from the available options and book it by entering their name.
-Cancel a Reservation: Users can cancel a previously booked seat by entering the seat number and their name.
-View Seat Availability: The system displays the current seat availability, showing which seats are booked and which are available.
-Payment Simulation: Simulates a payment process for booking seats.
+**Book a Seat:** Users can select a seat from the available options and book it by entering their name.
+
+**Cancel a Reservation:** Users can cancel a previously booked seat by entering the seat number and their name.
+
+**View Seat Availability:** The system displays the current seat availability, showing which seats are booked and which are available.
+
+**Payment Simulation:** Simulates a payment process for booking seats.
 # Prerequisites
 Java Development Kit (JDK) 8 or higher
 An IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a simple text editor with a command-line interface.
