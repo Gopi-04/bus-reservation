@@ -32,15 +32,16 @@ If using a text editor, open the Reservation.java file.
 **Open a terminal in the project directory and run:**
 
 Copy code
-'''bash
+```bash
 javac demo/busReservation.java
-'''
+```
 
 **Run the Program:**
 
 **After compilation, run the program using:**
-
+```bash
 java demo/busReservation
+```
 # Interact with the System:
 
 You will be prompted to select a seat number to book or cancel.
