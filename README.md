@@ -71,26 +71,26 @@ The system will confirm the cancellation and refund.
 
 [*]  [8]  [9]  
 
-ENTER THE SEAT NUMBER TO BOOK : 1
+**ENTER THE SEAT NUMBER TO BOOK : 1**
 
-ENTER THE PASSENGER NAME : Gopi
+**ENTER THE PASSENGER NAME : Gopi**
 
 ---------------- Your Seat Has Been Locked ----------------
 
 ---------------- Pay 500 INR to Book/Confirm Your Seat ----------------
 
-Enter Card Number : 1234567890123456
-Enter CVV : 123
+**Enter Card Number : 1234567890123456**
+**Enter CVV : 123**
 
 ----------  Payment Successful  ----------
 
-Ticket booked for : Gopi
+**Ticket booked for : Gopi**
 
-Seat Number       : 1
+**Seat Number       : 1**
 
-Start Place       : CHENNAI at 11:00pm
+**Start Place       : CHENNAI at 11:00pm**
 
-End Place         : SALEM at 6:00am
+**End Place         : SALEM at 6:00am**
 
 **Contributions:**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
