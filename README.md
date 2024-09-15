@@ -71,7 +71,7 @@ The system will confirm the cancellation and refund.
 [*]  [8]  [9]  
 
 ENTER THE SEAT NUMBER TO BOOK : 1
-ENTER THE PASSENGER NAME : John Doe
+ENTER THE PASSENGER NAME : Gopi
 
 ---------------- Your Seat Has Been Locked ----------------
 
@@ -82,7 +82,7 @@ Enter CVV : 123
 
 ----------  Payment Successful  ----------
 
-Ticket booked for : John Doe
+Ticket booked for : Gopi
 Seat Number       : 1
 Start Place       : CHENNAI at 11:00pm
 End Place         : SALEM at 6:00am
