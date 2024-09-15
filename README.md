@@ -92,8 +92,5 @@ The system will confirm the cancellation and refund.
 
 **End Place         : SALEM at 6:00am**
 
-**Contributions:**
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
