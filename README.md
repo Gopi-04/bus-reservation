@@ -33,6 +33,7 @@ Open a terminal in the project directory and run:
 bash
 Copy code
 javac demo/busReservation.java
+
 Run the Program:
 
 After compilation, run the program using:
