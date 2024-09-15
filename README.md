@@ -60,7 +60,9 @@ The system will confirm the cancellation and refund.
 # Example Output
 
 ---------------   SELECT THE SEAT NUMBER YOU WANT   ---------------
+
 ---------------   STARRED '*' SEATS ARE BOOKED SEATS   ------------
+
 ---------------   SELECT OTHER AVAILABLE SEATS   ------------------
 
 [1]  [2]  [*]  
@@ -85,7 +87,8 @@ Ticket booked for : Gopi
 Seat Number       : 1
 Start Place       : CHENNAI at 11:00pm
 End Place         : SALEM at 6:00am
-Contributions
+
+**Contributions:**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 # License
