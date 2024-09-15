@@ -26,14 +26,14 @@ If using a text editor, open the Reservation.java file.
 # How to Run
 **Compile the Java File:**
 
-Open a terminal in the project directory and run:
+**Open a terminal in the project directory and run:**
 
 Copy code
 javac demo/busReservation.java
 
 **Run the Program:**
 
-After compilation, run the program using:
+**After compilation, run the program using:**
 
 java demo/busReservation
 # Interact with the System:
