@@ -13,14 +13,9 @@ An IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a simple text editor with a c
 # Installation
 Clone the Repository:
 
-bash
-Copy code
-
 git clone [https://github.com/gopi-04/bus-reservation-system.git](https://github.com/Gopi-04/bus-reservation/edit/main/README.md)
 
 Navigate to the Project Directory:
-
-bash
 
 cd busReservation
 
