@@ -9,34 +9,32 @@ View Seat Availability: The system displays the current seat availability, showi
 Payment Simulation: Simulates a payment process for booking seats.
 # Prerequisites
 Java Development Kit (JDK) 8 or higher
-An IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a simple text editor with a command-line interface
+An IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a simple text editor with a command-line interface.
 # Installation
-Clone the Repository:
+**Clone the Repository:**
 
 git clone [https://github.com/gopi-04/bus-reservation-system.git](https://github.com/Gopi-04/bus-reservation/edit/main/README.md)
 
-Navigate to the Project Directory:
+**Navigate to the Project Directory:**
 
 cd busReservation
 
-Open the Project:
+**Open the Project:**
 
 If using an IDE, open the project directory.
 If using a text editor, open the Reservation.java file.
 # How to Run
-Compile the Java File:
+**Compile the Java File:**
 
 Open a terminal in the project directory and run:
 
 Copy code
 javac demo/busReservation.java
 
-Run the Program:
+**Run the Program:**
 
 After compilation, run the program using:
 
-bash
-Copy code
 java demo/busReservation
 # Interact with the System:
 
@@ -45,13 +43,13 @@ Follow the on-screen instructions to book a seat, cancel a reservation, or exit 
 Code Structure
 Reservation.java: The main file containing the logic for booking and canceling seats, payment simulation, and user interaction.
 # Usage
-Booking a Seat:
+**Booking a Seat:**
 
 When prompted, enter a seat number (1-9) to book.
 Provide the passenger's name when requested.
 Complete the payment simulation to confirm the booking.
 
-Canceling a Reservation:
+**Canceling a Reservation:**
 
 When prompted, enter a seat number (1-9) to cancel.
 Provide the name associated with the booking for validation.
