@@ -21,9 +21,9 @@ git clone [https://github.com/gopi-04/bus-reservation-system.git](https://github
 Navigate to the Project Directory:
 
 bash
-Copy code
 
 cd busReservation
+
 Open the Project:
 
 If using an IDE, open the project directory.
