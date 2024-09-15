@@ -94,6 +94,3 @@ The system will confirm the cancellation and refund.
 **Start Place       : CHENNAI at 11:00pm**
 
 **End Place         : SALEM at 6:00am**
-
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
