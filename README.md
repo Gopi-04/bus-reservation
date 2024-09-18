@@ -36,14 +36,14 @@ If using a text editor, open the **busReservation.java** file.
 
 Copy code
 ```bash
-javac demo/busReservation.java
+javac busReservation.java
 ```
 
 **Run the Program:**
 
 **After compilation, run the program using:**
 ```bash
-java demo/busReservation
+java busReservation
 ```
 # Interact with the System:
 
