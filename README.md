@@ -15,12 +15,15 @@ Java Development Kit (JDK) 8 or higher
 An IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or a simple text editor with a command-line interface.
 # Installation
 **Clone the Repository:**
-
+```bash
 git clone [https://github.com/gopi-04/bus-reservation-system.git](https://github.com/Gopi-04/bus-reservation/edit/main/README.md)
+```
 
 **Navigate to the Project Directory:**
 
+```bash
 cd busReservation
+```
 
 **Open the Project:**
 
